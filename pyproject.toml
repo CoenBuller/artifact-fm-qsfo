@@ -10,3 +10,9 @@ dependencies = [
     "pplpy>=0.8.10",
     "sympy>=1.14.0",
 ]
+
+
+[tools.setuptools.packages.find]
+where = ["."]
+include = ["qsfo*"]
+exclude = ["experiments*]
