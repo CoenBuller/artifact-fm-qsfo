@@ -1,5 +1,5 @@
 [project]
-name = "artifact-fm-qsfo"
+name = "qsfo-monitor"
 version = "0.1.0"
 description = "Artifact for monitoring quantitative signal first-order logic"
 readme = "README.md"
